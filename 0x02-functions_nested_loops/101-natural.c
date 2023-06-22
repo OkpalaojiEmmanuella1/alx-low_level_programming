@@ -5,7 +5,7 @@
 * Return: Always (Success)
 */
 
-intmain(void)
+int main(void)
 
 {
 
